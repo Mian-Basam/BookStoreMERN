@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "Lorem ipsum dolor sit amet...",
+        "price": 0,
+        "category": "Free",
+        "image": "../src/assets/free.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Adventure Book",
+        "title": "Ut enim ad minim veniam...",
+        "price": 90,
+        "category": "Adventure",
+        "image": "../src/assets/free.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Mystery Novel",
+        "title": "Duis aute irure dolor in...",
+        "price": 70,
+        "category": "Mystery",
+        "image": "../src/assets/free.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Fantasy Tale",
+        "title": "Excepteur sint occaecat cupidatat...",
+        "price": 60,
+        "category": "Fantasy",
+        "image": "../src/assets/free.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Science Fiction",
+        "title": "Sed ut perspiciatis unde omnis...",
+        "price": 100,
+        "category": "Science Fiction",
+        "image": "../src/assets/free.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Historical Fiction",
+        "title": "Nemo enim ipsam voluptatem quia...",
+        "price": 50,
+        "category": "Historical Fiction",
+        "image": "../src/assets/free.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Romance Novel",
+        "title": "Lorem ipsum dolor sit amet...",
+        "price": 80,
+        "category": "Romance",
+        "image": "../src/assets/free.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Thriller Book",
+        "title": "Ut enim ad minim veniam...",
+        "price": 90,
+        "category": "Thriller",
+        "image": "../src/assets/free.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Biography",
+        "title": "Duis aute irure dolor in...",
+        "price": 75,
+        "category": "Biography",
+        "image": "../src/assets/free.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Self-help Guide",
+        "title": "Excepteur sint occaecat cupidatat...",
+        "price": 85,
+        "category": "Self-help",
+        "image": "../src/assets/free.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Cookbook",
+        "title": "Sed ut perspiciatis unde omnis...",
+        "price": 65,
+        "category": "Cooking",
+        "image": "../src/assets/free.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Poetry Collection",
+        "title": "Nemo enim ipsam voluptatem quia...",
+        "price": 95,
+        "category": "Poetry",
+        "image": "../src/assets/free.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Free Short Stories",
+        "title": "A collection of short stories...",
+        "price": 0,
+        "category": "Free",
+        "image": "../src/assets/free.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Action and Adventure",
+        "title": "Exciting adventures in far-off lands...",
+        "price": 70,
+        "category": "Adventure",
+        "image": "../src/assets/free.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Detective Mystery",
+        "title": "Solve mysterious cases with cunning...",
+        "price": 60,
+        "category": "Mystery",
+        "image": "../src/assets/free.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Epic Fantasy",
+        "title": "Journey through magical realms...",
+        "price": 100,
+        "category": "Fantasy",
+        "image": "../src/assets/free.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Space Odyssey",
+        "title": "Explore distant galaxies and encounter...",
+        "price": 80,
+        "category": "Science Fiction",
+        "image": "../src/assets/free.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Historical Drama",
+        "title": "Revisit historical events through...",
+        "price": 50,
+        "category": "Historical Fiction",
+        "image": "../src/assets/free.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Love Stories",
+        "title": "Heartwarming tales of love...",
+        "price": 0,
+        "category": "Free",
+        "image": "../src/assets/free.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Psychological Thriller",
+        "title": "Delve into the minds of complex...",
+        "price": 90,
+        "category": "Thriller",
+        "image": "../src/assets/free.jpg"
+    }
+]
